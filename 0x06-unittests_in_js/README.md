@@ -1,1 +1,30 @@
-0x06-unittests_in_js
+[master 66637645] 0x06-unittests_in_js
+ 28 files changed, 689 insertions(+)
+ create mode 100644 0x06-unittests_in_js/0-calcul.js
+ create mode 100644 0x06-unittests_in_js/0-calcul.test.js
+ create mode 100644 0x06-unittests_in_js/1-calcul.js
+ create mode 100644 0x06-unittests_in_js/1-calcul.test.js
+ create mode 100644 0x06-unittests_in_js/10-api/api.js
+ create mode 100644 0x06-unittests_in_js/10-api/api.test.js
+ create mode 100644 0x06-unittests_in_js/10-api/package.json
+ create mode 100644 0x06-unittests_in_js/2-calcul_chai.js
+ create mode 100644 0x06-unittests_in_js/2-calcul_chai.test.js
+ create mode 100644 0x06-unittests_in_js/3-payment.js
+ create mode 100644 0x06-unittests_in_js/3-payment.test.js
+ create mode 100644 0x06-unittests_in_js/4-payment.js
+ create mode 100644 0x06-unittests_in_js/4-payment.test.js
+ create mode 100644 0x06-unittests_in_js/5-payment.js
+ create mode 100644 0x06-unittests_in_js/5-payment.test.js
+ create mode 100644 0x06-unittests_in_js/6-payment_token.js
+ create mode 100644 0x06-unittests_in_js/6-payment_token.test.js
+ create mode 100644 0x06-unittests_in_js/7-skip.test.js
+ create mode 100644 0x06-unittests_in_js/8-api/api.js
+ create mode 100644 0x06-unittests_in_js/8-api/api.test.js
+ create mode 100644 0x06-unittests_in_js/8-api/package.json
+ create mode 100644 0x06-unittests_in_js/9-api/api.js
+ create mode 100644 0x06-unittests_in_js/9-api/api.test.js
+ create mode 100644 0x06-unittests_in_js/9-api/package.json
+ create mode 100644 0x06-unittests_in_js/README.md
+ create mode 100644 0x06-unittests_in_js/babel.config.js
+ create mode 100644 0x06-unittests_in_js/package.json
+ create mode 100644 0x06-unittests_in_js/utils.js
